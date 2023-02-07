@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+
+* { 
+    margin: 0px;
+    box-sizing: border-box;
+    background-color: #C4C4C4;
+    padding: 0px;
+}
+
+.wrapper1 { 
+    background-color: #E6E6E6;
+    margin: 50px;
+    overflow: auto;
+}
+
+div p {
+    font-family: 'Roboto';
+    background-color: #FC8F8F;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.block1 {
+    background-color: #FC8F8F;
+    width: 200px;
+    height: 200px;
+    float: left;
+    
+}
+
+.block2 { 
+    background-color: #FC8F8F;
+    width: 200px;
+    height: 200px;
+    float: right;   
+}
+
+.wrapper2 {
+    background-color: #E6E6E6;
+    margin: 50px;
+    overflow: auto;
+}
+
+.block3 {
+    background-color: #FC8F8F;
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+.block4 {
+    background-color: #FC8F8F;
+    height: 100px;
+    width: 100px;
+    float: right;
+    margin-left: 15px;
+}
+
+.small {
+    font-family: 'Roboto';
+    background-color: #FC8F8F;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.block5 {
+    background-color: #FC8F8F;
+    height: 100px;
+    width: 100px;
+    float: right;
+    margin-left: 15px;
+}
+
+.block6 {
+    background-color: #FC8F8F;
+    height: 100px;
+    width: 100px;
+    float: right;
+    margin-left: 15px;
+}
+
+.block7 {
+    background-color: #FC8F8F;
+    height: 100px;
+    width: 100px;
+    float: right;
+    margin-left: 15px;
+}
+
+.wrapper3 {
+    background-color: #E6E6E6;
+    margin: 50px;
+    overflow: auto;
+}
+.block8 { 
+    background-color: #FC8F8F;
+    height: 200px;
+    width: 200px;
+    float: left;
+    margin-right: 15px;
+}
+
+
+.block9 { 
+    background-color: #FC8F8F;
+    height: 200px;
+    width: 200px;
+    float: left;
+    margin-right: 15px;
+}
+
+.block10 { 
+    background-color: #FC8F8F;
+    height: 200px;
+    width: 200px;
+    float: right;
+    margin-left: 15px;
+}
+
+.block11 {
+    background-color: #FC8F8F;
+    height: 200px;
+    width: 200px;
+    float: right;
+    margin-left: 15px;
+}
